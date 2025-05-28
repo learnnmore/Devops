@@ -1,1 +1,3 @@
+hello how are you
+this is git feature branch
 hello this is stash comamnd checker i m adding new ooooooooooooooooo line hhhhhhhhhhhh mmmmmmmmmmmm
